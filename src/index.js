@@ -9,7 +9,7 @@ var destination = document.querySelector('#container');
 
 ReactDOM.render(
   <div>
-	<TodoList/>
-  </div>, 
+    <TodoList />
+  </div>,
   destination
 );
